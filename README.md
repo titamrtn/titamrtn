@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RAJAONAH%20Nandrianina&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Web%20and%20Mobile%20Developer&descAlignY=51)
+
 ### Hi there 👋
 
 I'm Nandrianina from Madagascar, FullStack developper.
